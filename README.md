@@ -1,8 +1,4 @@
 ## Hi there 👋
 
-I am Egemen Erdem, a Computer Engineering student who is passionate about mobile app development.
+I’m Egemen Erdem, a Computer Engineering student passionate about Full-Stack Development and building modern, user-focused applications.
 
-### 🌱 Currently Learning
-- Kotlin 
-- XML 
-- Jetpack Compose
